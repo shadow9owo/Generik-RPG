@@ -15,6 +15,7 @@ var
 
  buffer : char;
 
+{ive kindoff gave up on improving this function}
 function generateenemylevel() : integer;
 var p1: integer;
 
